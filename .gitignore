@@ -1,5 +1,5 @@
-.vscode/
-.idea/
-.DS_Store
-node_modules/
-*.log
+.terraform/
+*.tfstate
+*.tfstate.backup
+*.tfplan
+.terraform.lock.hcl
